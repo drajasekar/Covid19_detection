@@ -54,7 +54,8 @@ Gaussian Naive Bayes: A probabilistic model based on Bayes' theorem that calcula
 K-Nearest Neighbors (KNN): A model that classifies data points based on the majority class among their nearest neighbors.
 
 
-Performance Metrics
+Performance Metrics:
+
 This section outlines the performance metrics used to assess the effectiveness of the machine learning models in COVID-19 prediction. The following metrics are calculated for each model:
 
 Accuracy: The ratio of correctly predicted instances to the total instances.
@@ -66,7 +67,8 @@ Recall: The ratio of correctly predicted positive instances to the total actual 
 F1 Score: The harmonic mean of precision and recall, providing a balance between them.
 
 
-Confusion Matrices
+Confusion Matrices:
+
 Confusion matrices are visual representations of model performance on both the training and testing datasets. They provide a detailed breakdown of true positives, true negatives, false positives, and false negatives, allowing for a better understanding of a model's classification accuracy.
 
 
