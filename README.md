@@ -11,20 +11,20 @@ This project implements a machine learning solution for COVID-19 prediction base
 - [Machine Learning Models](#machine-learning-models)
 - [Performance Metrics](#performance-metrics)
 - [Confusion Matrices](#confusion-matrices)
-## Introduction
+Introduction
 
 The project's main objective is to predict COVID-19 cases using machine learning models. It takes into account various features related to symptoms and risk factors and utilizes several metrics to evaluate model performance.
 
-## Features
+Features
 
 - COVID-19 prediction based on machine learning.
 - Training and evaluation of multiple machine learning models.
 - Calculation of accuracy, precision, recall, and F1 score.
 - Visualization of confusion matrices for model assessment.
 
-## Getting Started
+Getting Started
 
-### Prerequisites
+Prerequisites
 
 Ensure you have the following prerequisites installed:
 
@@ -35,9 +35,8 @@ Ensure you have the following prerequisites installed:
 - matplotlib (for data visualization)
 - Other required libraries (e.g., seaborn, colorama)
 
-You can install the necessary packages using pip:
 
-##Machine Learning Models
+Machine Learning Models
 
 This section provides an overview of the machine learning models used in the COVID-19 prediction system. The following models have been implemented and evaluated:
 
@@ -53,7 +52,8 @@ Gaussian Naive Bayes: A probabilistic model based on Bayes' theorem that calcula
 
 K-Nearest Neighbors (KNN): A model that classifies data points based on the majority class among their nearest neighbors.
 
-##Performance Metrics
+
+Performance Metrics
 This section outlines the performance metrics used to assess the effectiveness of the machine learning models in COVID-19 prediction. The following metrics are calculated for each model:
 
 Accuracy: The ratio of correctly predicted instances to the total instances.
@@ -64,7 +64,8 @@ Recall: The ratio of correctly predicted positive instances to the total actual 
 
 F1 Score: The harmonic mean of precision and recall, providing a balance between them.
 
-##Confusion Matrices
+
+Confusion Matrices
 Confusion matrices are visual representations of model performance on both the training and testing datasets. They provide a detailed breakdown of true positives, true negatives, false positives, and false negatives, allowing for a better understanding of a model's classification accuracy.
 
 
