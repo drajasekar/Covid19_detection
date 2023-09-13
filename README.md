@@ -11,6 +11,7 @@ This project implements a machine learning solution for COVID-19 prediction base
 - [Machine Learning Models](#machine-learning-models)
 - [Performance Metrics](#performance-metrics)
 - [Confusion Matrices](#confusion-matrices)
+
 Introduction
 
 The project's main objective is to predict COVID-19 cases using machine learning models. It takes into account various features related to symptoms and risk factors and utilizes several metrics to evaluate model performance.
